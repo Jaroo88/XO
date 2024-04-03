@@ -15,6 +15,7 @@ public class Main {
 
         ioController.displayMessage("Witaj w grze! Rozpoczynamy...");
         gameService.playGame();
+
     }
 }
 
