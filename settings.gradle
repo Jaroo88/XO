@@ -1,0 +1,4 @@
+rootProject.name = 'XO'
+include 'kodilla-rps'
+include 'kodilla-rps'
+
