@@ -26,7 +26,7 @@ public class GameService {
             processUserMove(this.human, "Twój ruch, ");
 
             if (game.isGameOver()) {
-                this.saveGameToFile("C:\\Programowanie\\Kodilla kurs\\Zapis gry XO\\ZapisGry.txt");
+                saveGameToFile("C:\\Programowanie\\Kodilla kurs\\Zapis gry XO\\ZapisGry.txt");
                 break;
             }
 

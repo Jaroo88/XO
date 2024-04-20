@@ -17,6 +17,5 @@ public class Main {
 
         ioController.displayMessage("Rozpoczynamy grę z komputerem...");
         gameService.playGame();
-        gameService.saveGameToFile("ZapisGry.txt");
     }
 }
